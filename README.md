@@ -33,4 +33,12 @@ const me = {
 
 ---
 
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyKineID&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 *"Coding is my playground, not my prison."*
