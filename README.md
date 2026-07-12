@@ -33,9 +33,11 @@ const me = {
 
 ---
 
+## GitHub Stats
+
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyKineID&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MyKineID&theme=tokyonight&hide_border=true)
 
 </div>
 
