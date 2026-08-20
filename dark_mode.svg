@@ -1,40 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="370" viewBox="0 0 960 370" font-family="Consolas, 'Courier New', monospace" font-size="16">
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530" font-family="Consolas, 'Courier New', monospace" font-size="16">
   <style>
-    .muted { fill: #8b949e; }
-    .key { fill: #ffa657; }
-    .value { fill: #a5d6ff; }
-    .accent { fill: #3fb950; }
-    .line { stroke: #30363d; }
-    text { white-space: pre; }
+    .key { fill: #ffa657; } .value { fill: #a5d6ff; } .muted { fill: #616e7f; }
+    .green { fill: #3fb950; } .red { fill: #f85149; } text, tspan { white-space: pre; }
   </style>
-  <rect width="960" height="370" rx="14" fill="#0d1117"/>
-  <rect x="1" y="1" width="958" height="368" rx="13" fill="none" stroke="#30363d"/>
-  <line x1="228" y1="26" x2="228" y2="344" class="line"/>
-  <text x="28" y="54" fill="#c9d1d9">
-    <tspan x="28" y="54">+------------------+</tspan>
-    <tspan x="28" y="76">|     [  MK  ]     |</tspan>
-    <tspan x="28" y="98">|                  |</tspan>
-    <tspan x="28" y="120">|  BEDROCK BUILDER |</tspan>
-    <tspan x="28" y="142">|   GLYPH MAKER    |</tspan>
-    <tspan x="28" y="164">+------------------+</tspan>
+  <rect width="985" height="530" rx="15" fill="#161b22"/>
+  <text x="15" y="30" fill="#c9d1d9">
+    <tspan x="15" y="30">u(     .'`I+[/cLphkmZdM@MhBBkB&amp;X/\|(((</tspan>
+    <tspan x="15" y="50">~.     .^^,;:,;i_(u0qC0&amp;$%$$MW$Wu/\\||</tspan>
+    <tspan x="15" y="70">I    .'^"";-|tf/{&gt;i/O*B@$$W#$$%$dt////</tspan>
+    <tspan x="15" y="90">     .'`^"",,;i+_-|xumW$$MdhB&amp;b$B@dntt/</tspan>
+    <tspan x="15" y="110">    .''`^"",::;:I]?(pW$WmqM$$Cf#$@$*zff</tspan>
+    <tspan x="15" y="130">    .'`^"""^^^ll1Zp&amp;dZo$$MLc/n&amp;@@$#X/</tspan>
+    <tspan x="15" y="150">    ...'`";Il;,I]rLWmdoM&amp;ZnZ%c(Y$@@WpY</tspan>
+    <tspan x="15" y="170">     .'.''''`,I!+XWzZmmCfuo$$p/(w$@%qJ</tspan>
+    <tspan x="15" y="190">    ..'..'.`,I!;(M{/fr/tZB@B@Bc)n*$@#Y</tspan>
+    <tspan x="15" y="210">    .. ^ .``;lI?p(:i&gt;it#$$@$@$h(tUMB$Z</tspan>
+    <tspan x="15" y="230">   .'' ``. "I!icv"Il[xr\tQW@@@@u)uwa$M</tspan>
+    <tspan x="15" y="250">   ..  '` ^;I-?z+^"`-O*Z;:[*@$$Z[jQZd$</tspan>
+    <tspan x="15" y="270">    .  ",.,"l1+C_,;|)~~iI&gt;f@$mXv}cnpxW</tspan>
+    <tspan x="15" y="290">     ' ^,`"'&gt;t{qv`pMopUYuq$Mz0(~JwnZnz</tspan>
+    <tspan x="15" y="310">     '^'`^^.&gt;curd~0$$Wo$$$%d1&lt;_+UduOXr</tspan>
+    <tspan x="15" y="330">[,    ''``. ,md-uznMM&amp;@$#/X@q)_+\&amp;YJmc</tspan>
+    <tspan x="15" y="350">Y{' ..`''`.. X$/IJmh%@Bh1+)Ba1?&lt;(#aJ0U</tspan>
+    <tspan x="15" y="370">?&lt;' ''`^.'`  i&amp;hl|*h#&amp;@Q&lt;_&gt;hL)[~-Z@mQX</tspan>
+    <tspan x="15" y="390">[i` .''`'.^'  ?%p\&amp;WMB$B}]uu(v\&lt;&lt;{ddqC</tspan>
+    <tspan x="15" y="410">1_. ..'''. ^'. _bkM@aZahQ&amp;#]{J\&gt;}_/hZU</tspan>
+    <tspan x="15" y="430">}&gt;     ..'  '...;(k$hdZnpb1;|u)&lt;;Xj/or</tspan>
+    <tspan x="15" y="450">t;      . .  . '&lt;.IZ*umbL({I-u]}uxY]Xb</tspan>
+    <tspan x="15" y="470">&gt;       i&gt; .    &gt;[[}O$&amp;OXr|+"rJCul}b_v</tspan>
+    <tspan x="15" y="490"> .`".   IC` .  "'f_z\QUnYzf|_!J\_[:LU~</tspan>
+    <tspan x="15" y="510">  .;~&lt;"  mc   '|+_urY_/xcJrr(?]n{+l(h|</tspan>
   </text>
-  <text x="28" y="218" class="muted">
-    <tspan x="28" y="218">// INDONESIA</tspan>
-    <tspan x="28" y="244">// BUILDING TOOLS</tspan>
-    <tspan x="28" y="270">// FOR MINECRAFT</tspan>
-  </text>
-  <text x="260" y="54" fill="#c9d1d9">
-    <tspan x="260" y="54">mykine@github:~$</tspan><tspan class="accent"> whoami</tspan>
-    <tspan x="260" y="84" class="key">Role      </tspan><tspan class="muted">...</tspan><tspan class="value"> Hobbyist developer</tspan>
-    <tspan x="260" y="108" class="key">Focus     </tspan><tspan class="muted">...</tspan><tspan class="value"> Minecraft Bedrock tools</tspan>
-    <tspan x="260" y="132" class="key">Building  </tspan><tspan class="muted">...</tspan><tspan class="value"> Glyph Tools and add-ons</tspan>
-    <tspan x="260" y="156" class="key">Stack     </tspan><tspan class="muted">...</tspan><tspan class="value"> JavaScript / Kotlin / Python</tspan>
-    <tspan x="260" y="192" fill="#c9d1d9">mykine@github:~$</tspan><tspan class="accent"> ls projects/</tspan>
-    <tspan x="260" y="222" class="value">glyph-tools</tspan><tspan class="muted">       Minecraft glyph atlas toolkit</tspan>
-    <tspan x="260" y="246" class="value">KiwEssentials</tspan><tspan class="muted">     Bedrock Edition add-on</tspan>
-    <tspan x="260" y="270" class="value">universe-timeline</tspan><tspan class="muted">  Interactive history project</tspan>
-    <tspan x="260" y="306" fill="#c9d1d9">mykine@github:~$</tspan><tspan class="accent"> status</tspan>
-    <tspan x="260" y="336" class="accent">[ONLINE]</tspan><tspan class="muted"> crafting useful things, one block at a time.</tspan>
+  <text x="390" y="30" fill="#c9d1d9">
+    <tspan x="390" y="30">mykine@github</tspan><tspan class="muted"> -----------------------------------------</tspan>
+    <tspan x="390" y="52" class="key">Role</tspan><tspan class="muted"> ................................ </tspan><tspan class="value">Bedrock Developer</tspan>
+    <tspan x="390" y="74" class="key">Focus</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">Minecraft Tools and Add-ons</tspan>
+    <tspan x="390" y="96" class="key">Current Project</tspan><tspan class="muted"> ..................... </tspan><tspan class="value">Glyph Tools</tspan>
+    <tspan x="390" y="118" class="key">Editor</tspan><tspan class="muted"> .............................. </tspan><tspan class="value">VS Code / IntelliJ IDEA</tspan>
+    <tspan x="390" y="140" class="key">Stack</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">JavaScript / Kotlin / Python</tspan>
+    <tspan x="390" y="174" fill="#c9d1d9">- Skills</tspan><tspan class="muted"> -----------------------------------------------</tspan>
+    <tspan x="390" y="196" class="key">Game Dev</tspan><tspan class="muted"> ............................ </tspan><tspan class="value">Bedrock Script API</tspan>
+    <tspan x="390" y="218" class="key">Web</tspan><tspan class="muted"> ................................. </tspan><tspan class="value">HTML / CSS / JSON / YAML</tspan>
+    <tspan x="390" y="240" class="key">Tools</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">Git / GitHub / Gradle</tspan>
+    <tspan x="390" y="274" fill="#c9d1d9">- Now</tspan><tspan class="muted"> --------------------------------------------------</tspan>
+    <tspan x="390" y="296" class="key">Building</tspan><tspan class="muted"> ............................ </tspan><tspan class="value">Glyph Tools ecosystem</tspan>
+    <tspan x="390" y="318" class="key">Exploring</tspan><tspan class="muted"> ........................... </tspan><tspan class="value">Minecraft worldbuilding</tspan>
+    <tspan x="390" y="352" fill="#c9d1d9">- Connect</tspan><tspan class="muted"> ----------------------------------------------</tspan>
+    <tspan x="390" y="374" class="key">GitHub</tspan><tspan class="muted"> .............................. </tspan><tspan class="value">github.com/MyKineID</tspan>
+    <tspan x="390" y="396" class="key">Location</tspan><tspan class="muted"> ............................ </tspan><tspan class="value">Indonesia</tspan>
+    <tspan x="390" y="418" class="key">Status</tspan><tspan class="muted"> .............................. </tspan><tspan class="green">Building in public</tspan>
+    <tspan x="390" y="452" fill="#c9d1d9">- GitHub Stats</tspan><tspan class="muted"> -----------------------------------------</tspan>
+    <tspan x="390" y="474" class="key">Repositories</tspan><tspan class="muted"> ........................ </tspan><tspan class="value">5</tspan>
+    <tspan x="390" y="496" class="key">Featured</tspan><tspan class="muted"> ............................ </tspan><tspan class="value">glyph-tools</tspan>
+    <tspan x="390" y="518" class="key">Motto</tspan><tspan class="muted"> ............................... </tspan><tspan class="green">Build. Learn. Repeat.</tspan>
   </text>
 </svg>
