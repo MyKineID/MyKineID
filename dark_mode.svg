@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="985" height="530" viewBox="0 0 985 530" font-family="Consolas, 'Courier New', monospace" font-size="16">
-  <style>
-    .key { fill: #ffa657; } .value { fill: #a5d6ff; } .muted { fill: #616e7f; }
-    .green { fill: #3fb950; } .red { fill: #f85149; } text, tspan { white-space: pre; }
-  </style>
-  <rect width="985" height="530" rx="15" fill="#161b22"/>
-  <text x="15" y="30" fill="#c9d1d9">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .addColor {fill: #3fb950;} .delColor {fill: #f85149;} .cc {fill: #616e7f;} text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
     <tspan x="15" y="30">u(     .'`I+[/cLphkmZdM@MhBBkB&amp;X/\|(((</tspan>
     <tspan x="15" y="50">~.     .^^,;:,;i_(u0qC0&amp;$%$$MW$Wu/\\||</tspan>
     <tspan x="15" y="70">I    .'^"";-|tf/{&gt;i/O*B@$$W#$$%$dt////</tspan>
@@ -33,26 +33,28 @@
     <tspan x="15" y="510">  .;~&lt;"  mc   '|+_urY_/xcJrr(?]n{+l(h|</tspan>
   </text>
   <text x="390" y="30" fill="#c9d1d9">
-    <tspan x="390" y="30">mykine@github</tspan><tspan class="muted"> -----------------------------------------</tspan>
-    <tspan x="390" y="52" class="key">Role</tspan><tspan class="muted"> ................................ </tspan><tspan class="value">Bedrock Developer</tspan>
-    <tspan x="390" y="74" class="key">Focus</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">Minecraft Tools and Add-ons</tspan>
-    <tspan x="390" y="96" class="key">Current Project</tspan><tspan class="muted"> ..................... </tspan><tspan class="value">Glyph Tools</tspan>
-    <tspan x="390" y="118" class="key">Editor</tspan><tspan class="muted"> .............................. </tspan><tspan class="value">VS Code / IntelliJ IDEA</tspan>
-    <tspan x="390" y="140" class="key">Stack</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">JavaScript / Kotlin / Python</tspan>
-    <tspan x="390" y="174" fill="#c9d1d9">- Skills</tspan><tspan class="muted"> -----------------------------------------------</tspan>
-    <tspan x="390" y="196" class="key">Game Dev</tspan><tspan class="muted"> ............................ </tspan><tspan class="value">Bedrock Script API</tspan>
-    <tspan x="390" y="218" class="key">Web</tspan><tspan class="muted"> ................................. </tspan><tspan class="value">HTML / CSS / JSON / YAML</tspan>
-    <tspan x="390" y="240" class="key">Tools</tspan><tspan class="muted"> ............................... </tspan><tspan class="value">Git / GitHub / Gradle</tspan>
-    <tspan x="390" y="274" fill="#c9d1d9">- Now</tspan><tspan class="muted"> --------------------------------------------------</tspan>
-    <tspan x="390" y="296" class="key">Building</tspan><tspan class="muted"> ............................ </tspan><tspan class="value">Glyph Tools ecosystem</tspan>
-    <tspan x="390" y="318" class="key">Exploring</tspan><tspan class="muted"> ........................... </tspan><tspan class="value">Minecraft worldbuilding</tspan>
-    <tspan x="390" y="352" fill="#c9d1d9">- Connect</tspan><tspan class="muted"> ----------------------------------------------</tspan>
-    <tspan x="390" y="374" class="key">GitHub</tspan><tspan class="muted"> .............................. </tspan><tspan class="value">github.com/MyKineID</tspan>
-    <tspan x="390" y="396" class="key">Location</tspan><tspan class="muted"> ............................ </tspan><tspan class="value">Indonesia</tspan>
-    <tspan x="390" y="418" class="key">Status</tspan><tspan class="muted"> .............................. </tspan><tspan class="green">Building in public</tspan>
-    <tspan x="390" y="452" fill="#c9d1d9">- GitHub Stats</tspan><tspan class="muted"> -----------------------------------------</tspan>
-    <tspan x="390" y="474" class="key">Repositories</tspan><tspan class="muted"> ........................ </tspan><tspan class="value">5</tspan>
-    <tspan x="390" y="496" class="key">Featured</tspan><tspan class="muted"> ............................ </tspan><tspan class="value">glyph-tools</tspan>
-    <tspan x="390" y="518" class="key">Motto</tspan><tspan class="muted"> ............................... </tspan><tspan class="green">Build. Learn. Repeat.</tspan>
+    <tspan x="390" y="30">mykine@github</tspan> -&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+    <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Bedrock Developer</tspan>
+    <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Minecraft Tools and Add-ons</tspan>
+    <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Project</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Glyph Tools</tspan>
+    <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Editor</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">VS Code / IntelliJ IDEA</tspan>
+    <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">JavaScript / Kotlin / Python</tspan>
+    <tspan x="390" y="150" class="cc">. </tspan>
+    <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">JavaScript / Kotlin / Python</tspan>
+    <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">HTML / CSS / JSON / YAML</tspan>
+    <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Git / GitHub / Gradle</tspan>
+    <tspan x="390" y="230" class="cc">. </tspan>
+    <tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Craft</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Glyph Tools / Add-ons</tspan>
+    <tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Play</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Minecraft / Worldbuilding</tspan>
+    <tspan x="390" y="310">- Connect</tspan> -&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+    <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">MyKineID</tspan>
+    <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Indonesia</tspan>
+    <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Building Glyph Tools</tspan>
+    <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Motto</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Build. Learn. Repeat.</tspan>
+    <tspan x="390" y="410" class="cc">. </tspan>
+    <tspan x="390" y="450">- GitHub Stats</tspan> -&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+    <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">5</tspan>
+    <tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Featured</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">glyph-tools</tspan>
+    <tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="addColor">Building in public</tspan>
   </text>
 </svg>
