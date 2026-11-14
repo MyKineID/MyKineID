@@ -10,7 +10,6 @@
 $ whoami
 MyKineID
 $ cat about.txt
-first-semester university student in Indonesia
 I build tools I use myself, and I keep them small enough to understand
 ```
 
