@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img alt="MyKineID" src="banner-light.svg">
+</picture>
+
 ```console
 $ whoami
 MyKineID
