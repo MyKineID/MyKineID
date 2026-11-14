@@ -1,8 +1,18 @@
+```text
+ __  __      _  ___          ___ ___
+|  \/  |_  _| |/ (_)_ _  ___|_ _|   \
+| |\/| | || | ' <| | ' \/ -_)| || |) |
+|_|  |_|\_, |_|\_\_|_||_\___|___|___/
+        |__/
+```
+
+```console
 $ whoami
 MyKineID
-
-A first-semester university student in Indonesia. I build tools I use
-myself, and I keep them small enough to understand.
+$ cat about.txt
+first-semester university student in Indonesia
+I build tools I use myself, and I keep them small enough to understand
+```
 
 ## Now
 
